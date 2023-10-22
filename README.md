@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
+<div align="center">
+<img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif"/>
+</div>  
 <h3 align="center">A Systems Development student from Brazil.</h3>
 
 - 🌱 I’m currently learning **the basics of programming from free online sources such as The Odin Project, freeCodeCamp, CS50 and also resources in Portuguese from Curso em Vídeo (seriously recommend them if you know the language).**
